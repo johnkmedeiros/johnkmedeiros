@@ -7,10 +7,10 @@ I'm a passionate backend developer, with a Bachelor's degree in Computer Science
 - **Programming Languages & Frameworks:** PHP, Laravel, Node.js, TypeScript, JavaScript, NestJS
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Testing:** Jest, PHPUnit
-- **Messaging:** Azure Service Bus (publish/subscribe, queues, topics), Redis
+- **Messaging & Communication:** Azure Service Bus (publish/subscribe, queues, topics), Redis
 - **Containerization:** Docker
-- **Others:** Software Architectures, Software Design Patterns, Agile methodologies, performance optimization, security best practices
-Currently working with **Node** (TypeScript, JavaScript) and **PHP** (Laravel).
+- **Software Architecture & Design Patterns:** Microservices, REST APIs, Clean Architecture, MVC, SOLID
+- **Others:** Agile methodologies, Scrum
 
 ### Find me elsewhere 
 
