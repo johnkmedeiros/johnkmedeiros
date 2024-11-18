@@ -16,7 +16,7 @@ I'm a passionate backend developer, with a Bachelor's degree in Computer Science
 
 <a style="display:inline-block" href="https://linkedin.com/in/johnkmedeiros/" target="_blank"><img alt="link for linkedin profile" title="My LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### Main projects 🚀
+### Main projects 
 
 | Name | Description | Techs |
 |---------|-----------|-------------|
