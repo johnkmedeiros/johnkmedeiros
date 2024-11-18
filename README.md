@@ -18,7 +18,7 @@ I'm a passionate backend developer, with a Bachelor's degree in Computer Science
 
 ### Main projects 🚀
 
-| Name | Description (en-US) | Techs |
+| Name | Description | Techs |
 |---------|-----------|-------------|
 | [Cinema Hub API](https://github.com/johnkmedeiros/cinema-hub-api) | A simple RESTful API built with Laravel, providing movie search and favorite management, integrated with TheMovieDB API for movie data. | `php`, `laravel`, `clean architecture`, `mysql`, `phpunit`, `solid` |
 | [Contact Manager API](https://github.com/johnkmedeiros/contact-manager-api) | A simple RESTful API built with TypeScript, Express, and Prisma, following Clean Architecture principles for scalability and maintainability. | `node`, `typescript`, `clean architecture`, `mysql`, `jest`, `solid` |
