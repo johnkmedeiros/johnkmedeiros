@@ -31,5 +31,3 @@ I'm a passionate backend developer, with a Bachelor's degree in Computer Science
 | [Cinema Hub API](https://github.com/johnkmedeiros/cinema-hub-api) | A simple RESTful API built with Laravel, providing movie search and favorite management, integrated with TheMovieDB API for movie data. | `php`, `laravel`, `clean architecture`, `mysql`, `phpunit`, `solid` |
 | [Contact Manager API](https://github.com/johnkmedeiros/contact-manager-api) | A simple RESTful API built with TypeScript, Express, and Prisma, following Clean Architecture principles for scalability and maintainability. | `node`, `typescript`, `clean architecture`, `docker`, `mysql`, `jest`, `solid` |
 | [Task Manager API](https://github.com/johnkmedeiros/task-manager-api) | A simple RESTful API for managing tasks, built with Laravel. | `php`, `laravel`, `mvc`, `mysql`, `phpunit` |
-
-___
